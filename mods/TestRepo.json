@@ -4,10 +4,10 @@
 		"name": "AI-Improvements-1.20-0.5.2.jar",
 		"size": 29553
 	},
-	"Ad-Astra-Giselle-Addon-forge-1.20.1-6.7.jar": {
+	"Ad-Astra-Giselle-Addon-forge-1.20.1-6.8.jar": {
 		"ext": "jar",
-		"name": "Ad-Astra-Giselle-Addon-forge-1.20.1-6.7.jar",
-		"size": 437599
+		"name": "Ad-Astra-Giselle-Addon-forge-1.20.1-6.8.jar",
+		"size": 438369
 	},
 	"Adorn-5.0.1+1.20.1-forge.jar": {
 		"ext": "jar",
@@ -59,10 +59,10 @@
 		"name": "BiomesOPlenty-1.20.1-18.0.0.592.jar",
 		"size": 21800460
 	},
-	"Bookshelf-Forge-1.20.1-20.1.10.jar": {
+	"Bookshelf-Forge-1.20.1-20.1.11.jar": {
 		"ext": "jar",
-		"name": "Bookshelf-Forge-1.20.1-20.1.10.jar",
-		"size": 337327
+		"name": "Bookshelf-Forge-1.20.1-20.1.11.jar",
+		"size": 337405
 	},
 	"Bountiful-6.0.3+1.20.1-forge.jar": {
 		"ext": "jar",
@@ -139,10 +139,10 @@
 		"name": "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
 		"size": 141744
 	},
-	"EnchantmentDescriptions-Forge-1.20.1-17.0.15.jar": {
+	"EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar": {
 		"ext": "jar",
-		"name": "EnchantmentDescriptions-Forge-1.20.1-17.0.15.jar",
-		"size": 67411
+		"name": "EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar",
+		"size": 69369
 	},
 	"EnderMail-1.20.1-1.2.9.jar": {
 		"ext": "jar",
@@ -249,25 +249,25 @@
 		"name": "Loot Crates Plus FORGE V1.11 (1.20.1).jar",
 		"size": 125694
 	},
-	"Mekanism-1.20.1-10.4.6.20.jar": {
+	"Mekanism-1.20.1-10.4.8.43.jar": {
 		"ext": "jar",
-		"name": "Mekanism-1.20.1-10.4.6.20.jar",
-		"size": 12550196
+		"name": "Mekanism-1.20.1-10.4.8.43.jar",
+		"size": 12553103
 	},
-	"MekanismAdditions-1.20.1-10.4.6.20.jar": {
+	"MekanismAdditions-1.20.1-10.4.8.43.jar": {
 		"ext": "jar",
-		"name": "MekanismAdditions-1.20.1-10.4.6.20.jar",
-		"size": 1136797
+		"name": "MekanismAdditions-1.20.1-10.4.8.43.jar",
+		"size": 1136798
 	},
-	"MekanismGenerators-1.20.1-10.4.6.20.jar": {
+	"MekanismGenerators-1.20.1-10.4.8.43.jar": {
 		"ext": "jar",
-		"name": "MekanismGenerators-1.20.1-10.4.6.20.jar",
-		"size": 1053795
+		"name": "MekanismGenerators-1.20.1-10.4.8.43.jar",
+		"size": 1054587
 	},
-	"MekanismTools-1.20.1-10.4.6.20.jar": {
+	"MekanismTools-1.20.1-10.4.8.43.jar": {
 		"ext": "jar",
-		"name": "MekanismTools-1.20.1-10.4.6.20.jar",
-		"size": 517997
+		"name": "MekanismTools-1.20.1-10.4.8.43.jar",
+		"size": 517998
 	},
 	"MobCaptains-v3.1.2.jar": {
 		"ext": "jar",
@@ -319,10 +319,10 @@
 		"name": "Patchouli-1.20.1-84-FORGE.jar",
 		"size": 642506
 	},
-	"Pehkui-3.8.0+1.20.1-forge.jar": {
+	"Pehkui-3.8.2+1.20.1-forge.jar": {
 		"ext": "jar",
-		"name": "Pehkui-3.8.0+1.20.1-forge.jar",
-		"size": 633030
+		"name": "Pehkui-3.8.2+1.20.1-forge.jar",
+		"size": 671605
 	},
 	"Placebo-1.20.1-8.6.1.jar": {
 		"ext": "jar",
@@ -534,25 +534,25 @@
 		"name": "architectury-9.2.14-forge.jar",
 		"size": 580602
 	},
-	"artifacts-forge-9.5.4.jar": {
+	"artifacts-forge-9.5.9.jar": {
 		"ext": "jar",
-		"name": "artifacts-forge-9.5.4.jar",
-		"size": 841415
+		"name": "artifacts-forge-9.5.9.jar",
+		"size": 843176
 	},
-	"azurelib-neo-1.20.1-2.0.222.jar": {
+	"azurelib-neo-1.20.1-2.0.24.jar": {
 		"ext": "jar",
-		"name": "azurelib-neo-1.20.1-2.0.222.jar",
-		"size": 745048
+		"name": "azurelib-neo-1.20.1-2.0.24.jar",
+		"size": 745148
 	},
 	"bagus_lib-1.20.1-4.6.0.jar": {
 		"ext": "jar",
 		"name": "bagus_lib-1.20.1-4.6.0.jar",
 		"size": 135120
 	},
-	"balm-forge-1.20.1-7.2.2.jar": {
+	"balm-forge-1.20.1-7.3.4-all.jar": {
 		"ext": "jar",
-		"name": "balm-forge-1.20.1-7.2.2.jar",
-		"size": 343714
+		"name": "balm-forge-1.20.1-7.3.4-all.jar",
+		"size": 373099
 	},
 	"baubley-heart-canisters-1.20.1-1.0.5.jar": {
 		"ext": "jar",
@@ -639,10 +639,10 @@
 		"name": "cloth-config-11.1.118-forge.jar",
 		"size": 1168391
 	},
-	"collective-1.20.1-7.60.jar": {
+	"collective-1.20.1-7.61.jar": {
 		"ext": "jar",
-		"name": "collective-1.20.1-7.60.jar",
-		"size": 608441
+		"name": "collective-1.20.1-7.61.jar",
+		"size": 609061
 	},
 	"combatroll-forge-1.3.2+1.20.1.jar": {
 		"ext": "jar",
@@ -659,10 +659,10 @@
 		"name": "configured-forge-1.20.1-2.2.3.jar",
 		"size": 418929
 	},
-	"cookingforblockheads-forge-1.20.1-16.0.4.jar": {
+	"cookingforblockheads-forge-1.20.1-16.0.6.jar": {
 		"ext": "jar",
-		"name": "cookingforblockheads-forge-1.20.1-16.0.4.jar",
-		"size": 815220
+		"name": "cookingforblockheads-forge-1.20.1-16.0.6.jar",
+		"size": 815676
 	},
 	"corn_delight-1.0.4-1.20.1.jar": {
 		"ext": "jar",
@@ -904,10 +904,10 @@
 		"name": "fnc-1.2.5.jar",
 		"size": 802570
 	},
-	"framework-forge-1.20.1-0.6.27.jar": {
+	"framework-forge-1.20.1-0.7.6.jar": {
 		"ext": "jar",
-		"name": "framework-forge-1.20.1-0.6.27.jar",
-		"size": 298074
+		"name": "framework-forge-1.20.1-0.7.6.jar",
+		"size": 302794
 	},
 	"friendsandfoes-forge-mc1.20.1-2.0.10.jar": {
 		"ext": "jar",
@@ -919,10 +919,10 @@
 		"name": "functionalstorage-1.20.1-1.2.10.jar",
 		"size": 653393
 	},
-	"geckolib-forge-1.20.1-4.4.4.jar": {
+	"geckolib-forge-1.20.1-4.4.5.jar": {
 		"ext": "jar",
-		"name": "geckolib-forge-1.20.1-4.4.4.jar",
-		"size": 989964
+		"name": "geckolib-forge-1.20.1-4.4.5.jar",
+		"size": 990728
 	},
 	"geophilic-v2.2.0-mc1.20u1.20.2.jar": {
 		"ext": "jar",
@@ -939,10 +939,10 @@
 		"name": "handcrafted-forge-1.20.1-3.0.6.jar",
 		"size": 7111059
 	},
-	"immersive_melodies-0.1.2+1.20.1-forge.jar": {
+	"immersive_melodies-0.2.0+1.20.1-forge.jar": {
 		"ext": "jar",
-		"name": "immersive_melodies-0.1.2+1.20.1-forge.jar",
-		"size": 2421893
+		"name": "immersive_melodies-0.2.0+1.20.1-forge.jar",
+		"size": 2556261
 	},
 	"immersive_paintings-0.6.7+1.20.1-forge.jar": {
 		"ext": "jar",
@@ -989,10 +989,10 @@
 		"name": "letsdo-API-forge-1.2.12-forge.jar",
 		"size": 1439635
 	},
-	"letsdo-bakery-forge-1.1.10.jar": {
+	"letsdo-bakery-forge-1.1.11.jar": {
 		"ext": "jar",
-		"name": "letsdo-bakery-forge-1.1.10.jar",
-		"size": 1539921
+		"name": "letsdo-bakery-forge-1.1.11.jar",
+		"size": 1538477
 	},
 	"letsdo-beachparty-forge-1.1.5.jar": {
 		"ext": "jar",
@@ -1004,10 +1004,10 @@
 		"name": "letsdo-brewery-forge-1.1.8.jar",
 		"size": 2228545
 	},
-	"letsdo-herbalbrews-forge-1.0.7.jar": {
+	"letsdo-herbalbrews-forge-1.0.8.jar": {
 		"ext": "jar",
-		"name": "letsdo-herbalbrews-forge-1.0.7.jar",
-		"size": 679512
+		"name": "letsdo-herbalbrews-forge-1.0.8.jar",
+		"size": 676321
 	},
 	"letsdo-vinery-forge-1.4.19.jar": {
 		"ext": "jar",
@@ -1073,11 +1073,6 @@
 		"ext": "jar",
 		"name": "mcef-forge-2.1.4-1.20.1.jar",
 		"size": 215532
-	},
-	"mcjtylib-1.20-8.0.3.jar.disabled": {
-		"ext": "disabled",
-		"name": "mcjtylib-1.20-8.0.3.jar.disabled",
-		"size": 677691
 	},
 	"mcw-bridges-3.0.0-mc1.20.1forge.jar": {
 		"ext": "jar",
@@ -1149,10 +1144,10 @@
 		"name": "mine-chromatic-addon-0.1.0.jar",
 		"size": 48764
 	},
-	"minecards-1.0.3_Forge_MC1.20.1-1.20.4.jar": {
+	"minecards-1.0.4_Forge_MC1.20.1-1.20.4.jar": {
 		"ext": "jar",
-		"name": "minecards-1.0.3_Forge_MC1.20.1-1.20.4.jar",
-		"size": 271958
+		"name": "minecards-1.0.4_Forge_MC1.20.1-1.20.4.jar",
+		"size": 273133
 	},
 	"minecraft-comes-alive-7.5.18+1.20.1-universal.jar": {
 		"ext": "jar",
