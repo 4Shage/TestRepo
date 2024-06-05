@@ -404,6 +404,11 @@
 		"name": "Terralith_1.20_v2.5.1.jar",
 		"size": 3197597
 	},
+	"TestRepo.json": {
+		"ext": "json",
+		"name": "TestRepo.json",
+		"size": 35835
+	},
 	"Towns-and-Towers-1.12-Fabric+Forge.jar": {
 		"ext": "jar",
 		"name": "Towns-and-Towers-1.12-Fabric+Forge.jar",
@@ -969,10 +974,10 @@
 		"name": "journeymap-1.20.1-5.9.20-forge.jar",
 		"size": 7138305
 	},
-	"journeymap-1.20.1-5.9.22-forge.jar": {
+	"journeymap-1.20.1-5.9.23-forge.jar": {
 		"ext": "jar",
-		"name": "journeymap-1.20.1-5.9.22-forge.jar",
-		"size": 7159484
+		"name": "journeymap-1.20.1-5.9.23-forge.jar",
+		"size": 7159518
 	},
 	"kotlinforforge-4.10.0-all.jar": {
 		"ext": "jar",
@@ -1169,10 +1174,10 @@
 		"name": "modelfix-1.15.jar",
 		"size": 45246
 	},
-	"modernfix-forge-5.17.0+mc1.20.1.jar": {
+	"modernfix-forge-5.18.0+mc1.20.1.jar": {
 		"ext": "jar",
-		"name": "modernfix-forge-5.17.0+mc1.20.1.jar",
-		"size": 738345
+		"name": "modernfix-forge-5.18.0+mc1.20.1.jar",
+		"size": 759193
 	},
 	"moonlight-1.20-2.11.31-forge.jar": {
 		"ext": "jar",
