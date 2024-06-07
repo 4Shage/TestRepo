@@ -404,6 +404,11 @@
 		"name": "Terralith_1.20_v2.5.1.jar",
 		"size": 3197597
 	},
+	"TestRepo.json": {
+		"ext": "json",
+		"name": "TestRepo.json",
+		"size": 35938
+	},
 	"Towns-and-Towers-1.12-Fabric+Forge.jar": {
 		"ext": "jar",
 		"name": "Towns-and-Towers-1.12-Fabric+Forge.jar",
