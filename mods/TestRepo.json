@@ -404,11 +404,6 @@
 		"name": "Terralith_1.20_v2.5.1.jar",
 		"size": 3197597
 	},
-	"TestRepo.json": {
-		"ext": "json",
-		"name": "TestRepo.json",
-		"size": 35835
-	},
 	"Towns-and-Towers-1.12-Fabric+Forge.jar": {
 		"ext": "jar",
 		"name": "Towns-and-Towers-1.12-Fabric+Forge.jar",
@@ -799,10 +794,10 @@
 		"name": "devices-0.8.2-forge.jar",
 		"size": 8946455
 	},
-	"dmnr-3.1.9.jar": {
+	"dmnr-3.1.10.jar": {
 		"ext": "jar",
-		"name": "dmnr-3.1.9.jar",
-		"size": 1407474
+		"name": "dmnr-3.1.10.jar",
+		"size": 1407476
 	},
 	"doubledoors-1.20.1-5.7.jar": {
 		"ext": "jar",
@@ -979,20 +974,20 @@
 		"name": "journeymap-1.20.1-5.9.23-forge.jar",
 		"size": 7159518
 	},
-	"kotlinforforge-4.10.0-all.jar": {
+	"kotlinforforge-4.11.0-all.jar": {
 		"ext": "jar",
-		"name": "kotlinforforge-4.10.0-all.jar",
-		"size": 7778600
+		"name": "kotlinforforge-4.11.0-all.jar",
+		"size": 7193768
 	},
 	"kubejs-forge-2001.6.5-build.7.jar": {
 		"ext": "jar",
 		"name": "kubejs-forge-2001.6.5-build.7.jar",
 		"size": 1651674
 	},
-	"letsdo-API-forge-1.2.12-forge.jar": {
+	"letsdo-API-forge-1.2.13-forge.jar": {
 		"ext": "jar",
-		"name": "letsdo-API-forge-1.2.12-forge.jar",
-		"size": 1439635
+		"name": "letsdo-API-forge-1.2.13-forge.jar",
+		"size": 1440710
 	},
 	"letsdo-bakery-forge-1.1.11.jar": {
 		"ext": "jar",
@@ -1034,10 +1029,10 @@
 		"name": "lootintegrations-1.20.1-3.7.jar",
 		"size": 25016
 	},
-	"lootjs-forge-1.20.1-2.11.0.jar": {
+	"lootjs-forge-1.20.1-2.12.0.jar": {
 		"ext": "jar",
-		"name": "lootjs-forge-1.20.1-2.11.0.jar",
-		"size": 241843
+		"name": "lootjs-forge-1.20.1-2.12.0.jar",
+		"size": 241907
 	},
 	"lucent-1.20.1-1.5.5.jar": {
 		"ext": "jar",
@@ -1134,10 +1129,10 @@
 		"name": "mcwfurnituresbop-1.20-1.1.jar",
 		"size": 1590711
 	},
-	"mekanism-ad-astra-ores-0.3.0.jar": {
+	"mekanism-ad-astra-ores-1.0.0.jar": {
 		"ext": "jar",
-		"name": "mekanism-ad-astra-ores-0.3.0.jar",
-		"size": 132545
+		"name": "mekanism-ad-astra-ores-1.0.0.jar",
+		"size": 136891
 	},
 	"midnightlib-forge-1.4.2.jar": {
 		"ext": "jar",
@@ -1379,10 +1374,10 @@
 		"name": "superbosses-1.2.0-1.20.1.jar",
 		"size": 19325
 	},
-	"supplementaries-1.20-2.8.11.jar": {
+	"supplementaries-1.20-2.8.13.jar": {
 		"ext": "jar",
-		"name": "supplementaries-1.20-2.8.11.jar",
-		"size": 14519559
+		"name": "supplementaries-1.20-2.8.13.jar",
+		"size": 14578816
 	},
 	"table_top_craft-1.20.1-6.1.2.jar": {
 		"ext": "jar",
