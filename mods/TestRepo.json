@@ -407,7 +407,7 @@
 	"TestRepo.json": {
 		"ext": "json",
 		"name": "TestRepo.json",
-		"size": 35938
+		"size": 36097
 	},
 	"Towns-and-Towers-1.12-Fabric+Forge.jar": {
 		"ext": "jar",
@@ -689,6 +689,11 @@
 		"name": "cosmeticarmorreworked-1.20.1-v1a.jar",
 		"size": 88752
 	},
+	"cosmos-library-1.20.1-10.5.1.0-universal.jar": {
+		"ext": "jar",
+		"name": "cosmos-library-1.20.1-10.5.1.0-universal.jar",
+		"size": 1610392
+	},
 	"cp_tweaks-forge-1.20.1-1.0.20.jar": {
 		"ext": "jar",
 		"name": "cp_tweaks-forge-1.20.1-1.0.20.jar",
@@ -798,6 +803,16 @@
 		"ext": "jar",
 		"name": "devices-0.8.2-forge.jar",
 		"size": 8946455
+	},
+	"dimensionalpocketsii-1.20.1-9.0.9.0-universal.jar": {
+		"ext": "jar",
+		"name": "dimensionalpocketsii-1.20.1-9.0.9.0-universal.jar",
+		"size": 3259005
+	},
+	"dimthread-1.20.1-v1.0.4.jar": {
+		"ext": "jar",
+		"name": "dimthread-1.20.1-v1.0.4.jar",
+		"size": 436042
 	},
 	"dmnr-3.1.10.jar": {
 		"ext": "jar",
@@ -1384,10 +1399,10 @@
 		"name": "superbosses-1.2.0-1.20.1.jar",
 		"size": 19325
 	},
-	"supplementaries-1.20-2.8.13.jar": {
+	"supplementaries-1.20-2.8.14.jar": {
 		"ext": "jar",
-		"name": "supplementaries-1.20-2.8.13.jar",
-		"size": 14578816
+		"name": "supplementaries-1.20-2.8.14.jar",
+		"size": 14577593
 	},
 	"table_top_craft-1.20.1-6.1.2.jar": {
 		"ext": "jar",
