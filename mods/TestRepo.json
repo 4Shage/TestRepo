@@ -402,7 +402,7 @@
 	"TestRepo.json": {
 		"ext": "json",
 		"name": "TestRepo.json",
-		"size": 36330
+		"size": 37002
 	},
 	"Towns-and-Towers-1.12-Fabric+Forge.jar": {
 		"ext": "jar",
@@ -518,6 +518,11 @@
 		"ext": "jar",
 		"name": "alexsmobs-1.22.8.jar",
 		"size": 26055355
+	},
+	"amendments-1.20-1.2.4.jar": {
+		"ext": "jar",
+		"name": "amendments-1.20-1.2.4.jar",
+		"size": 972194
 	},
 	"another_furniture-forge-1.20.1-3.0.1.jar": {
 		"ext": "jar",
@@ -1463,11 +1468,6 @@
 		"ext": "jar",
 		"name": "ultreon-lib-forge-1.5.0.jar",
 		"size": 1560792
-	},
-	"vanillatools.zip": {
-		"ext": "zip",
-		"name": "vanillatools.zip",
-		"size": 6318
 	},
 	"voicechat-forge-1.20.1-2.5.12.jar": {
 		"ext": "jar",
