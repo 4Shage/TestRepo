@@ -72,7 +72,7 @@
 	"Butchersdelight beta 1.20.1 2.1.0.jar": {
 		"ext": "jar",
 		"name": "Butchersdelight beta 1.20.1 2.1.0.jar",
-		"size": 11
+		"size": 3942918
 	},
 	"CGM-Unofficial-1.4.17+Forge+1.20.1.jar": {
 		"ext": "jar",
@@ -284,11 +284,6 @@
 		"name": "MobsPropertiesRandomness-4.10.8-mc1.20.1.jar",
 		"size": 134271
 	},
-	"ModernUI-Forge-1.20.1--universal.jar": {
-		"ext": "jar",
-		"name": "ModernUI-Forge-1.20.1--universal.jar",
-		"size": 24858042
-	},
 	"ModernUI-Forge-1.20.1-3.10.1.4-universal.jar": {
 		"ext": "jar",
 		"name": "ModernUI-Forge-1.20.1-3.10.1.4-universal.jar",
@@ -359,11 +354,6 @@
 		"name": "SCP_Overtime_2.0.8.jar",
 		"size": 27435793
 	},
-	"Searchables-forge-1.20.1-1.0.2.jar": {
-		"ext": "jar",
-		"name": "Searchables-forge-1.20.1-1.0.2.jar",
-		"size": 77704
-	},
 	"Searchables-forge-1.20.1-1.0.3.jar": {
 		"ext": "jar",
 		"name": "Searchables-forge-1.20.1-1.0.3.jar",
@@ -384,9 +374,9 @@
 		"name": "SimpleRadio-forge-1.20.1-2.3.4.jar",
 		"size": 273796
 	},
-	"Stabx_Modern_Guns_v8.4_mc1.20.1_optimized_Final.jar": {
+	"Stabx_Modern_Guns_v8.4_mc1.20.1_optimized Final.jar": {
 		"ext": "jar",
-		"name": "Stabx_Modern_Guns_v8.4_mc1.20.1_optimized_Final.jar",
+		"name": "Stabx_Modern_Guns_v8.4_mc1.20.1_optimized Final.jar",
 		"size": 17614976
 	},
 	"Steam_Rails-1.6.4+forge-mc1.20.1.jar": {
@@ -408,11 +398,6 @@
 		"ext": "jar",
 		"name": "Terralith_1.20_v2.5.1.jar",
 		"size": 3197597
-	},
-	"TestRepo.json": {
-		"ext": "json",
-		"name": "TestRepo.json",
-		"size": 36541
 	},
 	"Towns-and-Towers-1.12-Fabric+Forge.jar": {
 		"ext": "jar",
@@ -1443,6 +1428,16 @@
 		"ext": "jar",
 		"name": "ultreon-lib-forge-1.5.0.jar",
 		"size": 1560792
+	},
+	"vanillatools.zip": {
+		"ext": "zip",
+		"name": "vanillatools.zip",
+		"size": 6318
+	},
+	"voicechat-forge-1.20.1-2.5.12.jar": {
+		"ext": "jar",
+		"name": "voicechat-forge-1.20.1-2.5.12.jar",
+		"size": 7704574
 	},
 	"voicechat-forge-1.20.1-2.5.15.jar": {
 		"ext": "jar",
