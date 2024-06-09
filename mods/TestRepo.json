@@ -412,7 +412,7 @@
 	"TestRepo.json": {
 		"ext": "json",
 		"name": "TestRepo.json",
-		"size": 36438
+		"size": 36541
 	},
 	"Towns-and-Towers-1.12-Fabric+Forge.jar": {
 		"ext": "jar",
@@ -1443,11 +1443,6 @@
 		"ext": "jar",
 		"name": "ultreon-lib-forge-1.5.0.jar",
 		"size": 1560792
-	},
-	"vanillatools.zip": {
-		"ext": "zip",
-		"name": "vanillatools.zip",
-		"size": 6318
 	},
 	"voicechat-forge-1.20.1-2.5.15.jar": {
 		"ext": "jar",
